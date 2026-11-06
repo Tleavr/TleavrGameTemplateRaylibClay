@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TleavrGameTemplate/TleavrGameTemplate.vcxproj" Id="a18cca94-5bbb-404d-9d12-12ee6d5ef9b5" />
+</Solution>
